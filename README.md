@@ -5,7 +5,6 @@
 - 🖥  Estou estudando HTML, CSS e JS
 - 😄 Pronomes ela/dela
 - ⚡ Curiosidade atleta de futsal ⚽
--->
 
   
 ## Aprendendo          
@@ -22,3 +21,10 @@
 - QUANDO O CÓDIGO FUNCIONA DE PRIMEIRA 😎 KKKKK
   <div class="tenor-gif-embed" data-postid="27574624" data-share-method="host" data-aspect-ratio="1.34454" data-width="100%"><a href="https://tenor.com/view/messi-gif-27574624">Messi GIF</a>from <a href="https://tenor.com/search/messi-gifs">Messi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
+## Contatos:
+
+<div>
+<a href="https://instagram.com/rodrigues13__" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "rodriguesprogramacao@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/tamyris-rodrigues-9915b8234/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
