@@ -21,7 +21,7 @@
 ## 
 QUANDO O CÓDIGO FUNCIONA DE PRIMEIRA 😎 KKKKK
 <div >
-  <img align="center" height="498" width="498" src="https://tenor.com/pt-BR/view/leo-messi-gif-21911070.gif">
+  <img align="center" height="400" width="400" src="https://tenor.com/pt-BR/view/messi-gif-27548820.gif">
 </div>
  
 
