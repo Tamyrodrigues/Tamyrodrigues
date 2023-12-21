@@ -1,8 +1,9 @@
 ### Olá, eu sou a Tamyris Rodrigues 👋
+### Iniciei meus estudos na programação por completa curiosidade minha. Diante de diversos caminhos que a programação nos propõem, quero seguir meus estudos no desenvolvimento front-end. Desde então eu venho aprendendo as linguagens Java script, HTML e CSS.
 
 
 - 🔭 Atualmente em busca da primeira oportunidade na programação
-- 🖥  Estou estudando HTML, CSS e JS
+- 🖥  Estudando HTML, CSS e JS
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: atleta de futsal ⚽
 
@@ -21,7 +22,7 @@
 ## 
 QUANDO O CÓDIGO FUNCIONA DE PRIMEIRA 😎 KKKKK
 <div >
-  <img align="center" height="400" width="400" src="https://tenor.com/pt-BR/view/messi-gif-27548820.gif">
+  <img align="center" height="200" width="200" src="https://tenor.com/pt-BR/view/messi-gif-27548820.gif">
 </div>
  
 
