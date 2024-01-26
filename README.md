@@ -1,5 +1,5 @@
 ### Olá, eu sou a Tamyris Rodrigues 👋
-### Iniciei meus estudos na programação por completa curiosidade. Diante de diversos caminhos que a programação nos propõem, quero seguir meus estudos no desenvolvimento front-end. Desde então eu venho aprendendo as linguagens Java script, HTML e CSS.
+### Ingressei no mundo da programação movida pela curiosidade. Diante das diversas trilhas oferecidas por essa área, decidi focar meus estudos no desenvolvimento front-end. Desde então, venho explorando as linguagens JavaScript, HTML e CSS.
 
 
 - 🔭 Atualmente em busca da primeira oportunidade na programação
