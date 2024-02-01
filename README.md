@@ -20,9 +20,9 @@
 
 
 ## 
-QUANDO O CÓDIGO FUNCIONA DE PRIMEIRA 😎 KKKKK
+Se a excelência é o seu objetivo, a prática é a chave para a maestria. 🚀 
 <div >
-  <img align="center" height="200" width="200" src="https://tenor.com/pt-BR/view/messi-gif-27548820.gif">
+  <img align="center" height="200" width="200" src="https://tenor.com/pt-BR/view/laptop-gif-26065252.gif">
 </div>
  
 
