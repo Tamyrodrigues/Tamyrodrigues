@@ -1,5 +1,6 @@
-### Olá, eu sou a Tamyris Rodrigues 👋
-### Ingressei no mundo da programação movida pela curiosidade. Diante das diversas trilhas oferecidas por essa área, decidi focar meus estudos no desenvolvimento front-end. Desde então, venho explorando as linguagens JavaScript, HTML e CSS.
+### Olá, eu sou Tamyris Rodrigues 👋
+
+Sou estudante de Computação na Universidade Federal do Paraná desde 2024 e comecei minha jornada na programação de forma autodidata em 2023. Estou focada no desenvolvimento front-end, aprendendo HTML, CSS e JavaScript.
 
 
 - 🔭 Atualmente em busca da primeira oportunidade na programação
